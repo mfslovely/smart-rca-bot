@@ -71,13 +71,6 @@ npm run dev
 
 Then visit: [http://localhost:5173](http://localhost:5173)
 
----
-
-## 📸 Screenshots
-
-> Add screenshots or GIFs of the working bot here (optional).
-
----
 
 ## 🤝 Contributing
 
